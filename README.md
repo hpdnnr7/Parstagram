@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+The gif below features both parts of the application with all user stories completetd. 
 
 # Parstagram - Part I
 
